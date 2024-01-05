@@ -1,4 +1,4 @@
-# Kickstarter-analyze
+# Kickstarter-analyze - 2024
 Performing analysis on charity donation programs to identify data points in order to create efficient campagins
 ## Summary
 The project is consist of over 40,000 data elements. 
